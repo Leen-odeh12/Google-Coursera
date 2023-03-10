@@ -16,6 +16,9 @@
  
 <img width="547" alt="synny" src="https://user-images.githubusercontent.com/123558998/224287266-9301f433-0223-4aea-8efd-c6aaf93ecb79.PNG">
 ***************************************
+<h2>Week-two- 2. Practice Quiz Advanced Git Interaction.txt </h2>
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/123558998/224295415-5663fa22-24bf-4517-bbeb-62bb02837c55.png">
+***************************************
 <h1>Google-Coursera -week-4-</h1> 
 <h3>1.Practice Quiz Pull Requests</h3> 
 
